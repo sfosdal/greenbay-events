@@ -1,0 +1,17 @@
+{
+ "events": [
+  {
+   "venue": "Lambeau Field",
+   "title": "Green Bay Packers vs. Chicago Bears",
+   "date": "2026-10-11",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/green-bay-packers-vs-chicago-bears-green-bay-wisconsin-10-11-2026/event/0700646BCF5888A9",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ]
+   }
+  }
+ ]
+}
