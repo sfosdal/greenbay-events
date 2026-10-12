@@ -1,0 +1,8 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "packers": "The Packers' season runs September to January at Lambeau Field, with the playoffs beyond that; flex-week kickoffs fill in above as the league confirms them.",
+  "gamblers": "The Gamblers' USHL season runs late September to April at the Resch Center, 31 home dates, with the Clark Cup playoffs through May.",
+  "phoenix": "The Phoenix's season runs November to March at the Resch Center, with the Horizon League tournament and, for its winner, the NCAA tournament beyond that; ESPN lists the regular season once it starts.",
+  "brewers": "Spring training opens in Phoenix in February and the regular season in late March at American Family Field; the schedule above fills in once MLB publishes it.",
+  "bucks": "The Bucks' season runs late October to April at Fiserv Forum, 41 home dates, with the play-in and the playoffs beyond that."
+}

@@ -1,0 +1,146 @@
+{
+ "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11 for Green Bay from the Chicago file; the NFL and MLB rounds are the leagues' published 2026 dates, the rest the usual calendar.",
+ "packers": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card",
+    "start": "2027-01-16",
+    "end": "2027-01-18"
+   },
+   {
+    "name": "Divisional",
+    "start": "2027-01-23",
+    "end": "2027-01-24"
+   },
+   {
+    "name": "NFC Championship",
+    "start": "2027-01-31",
+    "end": "2027-01-31"
+   },
+   {
+    "name": "Super Bowl LXI",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "site": "SoFi Stadium, Inglewood",
+    "final": true
+   }
+  ]
+ },
+ "gamblers": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Clark Cup Playoffs, first round",
+    "start": "2027-04-19",
+    "end": "2027-04-27",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2027-04-30",
+    "end": "2027-05-08",
+    "tbd": true
+   },
+   {
+    "name": "Clark Cup Final",
+    "start": "2027-05-11",
+    "end": "2027-05-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "phoenix": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Horizon League Tournament",
+    "start": "2027-03-02",
+    "end": "2027-03-09",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first round",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "Sweet 16 and Elite Eight",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "brewers": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Wild Card Series",
+    "start": "2026-09-29",
+    "end": "2026-10-01"
+   },
+   {
+    "name": "Division Series",
+    "start": "2026-10-03",
+    "end": "2026-10-10"
+   },
+   {
+    "name": "NLCS",
+    "start": "2026-10-12",
+    "end": "2026-10-20"
+   },
+   {
+    "name": "World Series",
+    "start": "2026-10-23",
+    "end": "2026-10-31",
+    "final": true
+   }
+  ]
+ },
+ "bucks": {
+  "season": "2026–27",
+  "rounds": [
+   {
+    "name": "Play-In Tournament",
+    "start": "2027-04-13",
+    "end": "2027-04-16",
+    "tbd": true
+   },
+   {
+    "name": "NBA Playoffs, first round",
+    "start": "2027-04-17",
+    "end": "2027-05-02",
+    "tbd": true
+   },
+   {
+    "name": "Second round",
+    "start": "2027-05-03",
+    "end": "2027-05-16",
+    "tbd": true
+   },
+   {
+    "name": "Conference Finals",
+    "start": "2027-05-17",
+    "end": "2027-05-30",
+    "tbd": true
+   },
+   {
+    "name": "NBA Finals",
+    "start": "2027-06-03",
+    "end": "2027-06-20",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}
