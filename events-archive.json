@@ -20,6 +20,22 @@
    "time": "18:30:00",
    "url": "https://www.reschcenter.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Hadestown (Touring)",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hadestown-touring-appleton-wisconsin-10-16-2026/event/070064E7CDBF31B8",
+   "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://ticketstar.evenue.net/events/26WA?utm_source=client&utm_medium=web&utm_campaign=Weird-Al-26",
+   "type": "arts"
   }
  ]
 }
