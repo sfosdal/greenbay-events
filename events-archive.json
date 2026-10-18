@@ -36,6 +36,38 @@
    "time": "20:00:00",
    "url": "https://ticketstar.evenue.net/events/26WA?utm_source=client&utm_medium=web&utm_campaign=Weird-Al-26",
    "type": "arts"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Hadestown (Touring)",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/hadestown-touring-appleton-wisconsin-10-17-2026/event/070064E7CDBA31B3",
+   "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "GODSMACK - The Rise of Rock World Tour 2026",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://ticketstar.evenue.net/events/26GS?utm_source=client&utm_medium=web&utm_campaign=godsmack-26",
+   "type": "concert"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "W.A.S.P.",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Hadestown (Touring)",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/hadestown-touring-appleton-wisconsin-10-17-2026/event/070064E7CDC531BD",
+   "type": "arts"
   }
  ]
 }
