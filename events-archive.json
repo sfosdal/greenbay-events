@@ -68,6 +68,27 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/hadestown-touring-appleton-wisconsin-10-17-2026/event/070064E7CDC531BD",
    "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Bart Starr Plaza Tailgate Party",
+   "date": "2026-10-18",
+   "time": "15:50:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Lambeau Field",
+   "title": "Green Bay Packers vs. Dallas Cowboys",
+   "date": "2026-10-18",
+   "time": "19:20:00",
+   "url": "https://www.ticketmaster.com/green-bay-packers-vs-dallas-cowboys-green-bay-wisconsin-10-18-2026/event/0700646BCF6088AD",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
   }
  ]
 }
