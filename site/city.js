@@ -108,7 +108,7 @@
       type: 'sports',
       cssVar: '--v-lambeau',
       color: '#c486ea',
-      url: 'https://www.packers.com/lambeau-field/events/',
+      url: 'https://www.packers.com/lambeau-field/lambeau-field-events/',
       icon: 'https://www.google.com/s2/favicons?domain=www.packers.com&sz=128',
       tm: { id: 'KovZpa3awe', match: 'lambeau field', fallbackUrl: 'https://www.packers.com/schedule/', exclude: /parking|tour|hall of fame/i },
       alias: /lambeau field/i,
