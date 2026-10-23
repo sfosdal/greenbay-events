@@ -97,6 +97,22 @@
    "time": "19:30:00",
    "url": "https://epicgreenbay.com/upcoming-events/",
    "type": "concert"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Tracy Lawrence",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "The Accidental Hero",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-accidental-hero-appleton-wisconsin-10-22-2026/event/0700649EAE8059F4",
+   "type": "arts"
   }
  ]
 }
