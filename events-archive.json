@@ -113,6 +113,14 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/the-accidental-hero-appleton-wisconsin-10-22-2026/event/0700649EAE8059F4",
    "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Green Bay Gamblers vs. Des Moines Buccaneers",
+   "date": "2026-10-23",
+   "time": "19:05:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
   }
  ]
 }
