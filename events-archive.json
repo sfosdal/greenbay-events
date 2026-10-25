@@ -121,6 +121,32 @@
    "time": "19:05:00",
    "url": "https://www.reschcenter.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "Oshkosh Arena",
+   "title": "Fox Cities Roller Derby Monsters Brawl",
+   "date": "2026-10-24",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/fox-cities-roller-derby-monsters-brawl-oshkosh-wisconsin-10-24-2026/event/07006522CDA9510E",
+   "type": "sports"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Fear Factory/ Mushroomhead co-headline Souls Of A New Machine Tour",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "WURKestra Supergroup",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/wurkestra-supergroup-appleton-wisconsin-10-24-2026/event/070064E291A72B20",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-19T22:19:23.518Z"
   }
  ]
 }
