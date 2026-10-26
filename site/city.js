@@ -94,6 +94,7 @@
   var VENUES = {
     // --- Downtown and the stadiums: the Resch campus across from Lambeau, Lambeau itself, the Meyer on Washington Street ---
     'Resch Center': {
+      geo: [44.50021, -88.05656],
       capacity: 10200,
       type: 'concert',
       cssVar: '--v-resch',
@@ -104,6 +105,7 @@
       alias: /resch center/i,
     },
     'Lambeau Field': {
+      geo: [44.50124, -88.06224],
       capacity: 81441,
       type: 'sports',
       cssVar: '--v-lambeau',
@@ -114,6 +116,7 @@
       alias: /lambeau field/i,
     },
     'Resch Expo': {
+      geo: [44.49987, -88.05581],
       capacity: 7000,
       type: 'community',
       cssVar: '--v-expo',
@@ -124,6 +127,7 @@
       alias: /resch expo/i,
     },
     'Meyer Theatre': {
+      geo: [44.51373, -88.01623],
       capacity: 1000,
       type: 'arts',
       cssVar: '--v-meyer',
@@ -135,6 +139,7 @@
     },
     // --- Music rooms and the Fox Cities (`area: 'town'`): the EPIC and the Riverside in town, then Appleton and Oshkosh down the river ---
     'EPIC Event Center': {
+      geo: [44.4949, -88.0696],
       area: 'town',
       capacity: 2200,
       type: 'concert',
@@ -146,6 +151,7 @@
       alias: /epic event cent/i,
     },
     'Riverside Ballroom': {
+      geo: [44.50487, -87.98704],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -157,6 +163,7 @@
       alias: /riverside ballroom/i,
     },
     'Fox Cities P.A.C.': {
+      geo: [44.26256, -88.41178],
       area: 'town',
       capacity: 2072,
       type: 'arts',
@@ -180,6 +187,7 @@
     },
     // the Wisconsin Timber Rattlers' park (Midwest League), Grand Chute
     'Fox Cities Stadium': {
+      geo: [44.2618, -88.4152],
       area: 'town',
       capacity: 5900,
       type: 'sports',
@@ -241,6 +249,18 @@
     ics: { name: 'Green Bay Events', short: 'Green Bay Events', teams: 'Green Bay home teams — every season', prodid: '-//here.events//greenbay-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Green Bay\\, WI — Lambeau Field\\, the Resch Center\\, the Meyer Theatre\\, the music rooms and the Fox Cities' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [44.224, -88.479, 44.552, -87.923], // south, west, north, east — every room, with a margin
+      home: [44.492, -88.074, 44.522, -88.005], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Green Bay', lat: 44.513, lon: -88.013, anchor: 'middle' },
+        { name: 'Ashwaubenon', lat: 44.47526, lon: -88.06073, anchor: 'middle' },
+        { name: 'Appleton', lat: 44.2614, lon: -88.40697, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
