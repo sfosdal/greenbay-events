@@ -231,10 +231,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Green Bay', // the board drops it from the clubs' names ("Green Bay Packers" → Packers)
-    presetDefault: 'Every room — Lambeau, the Resch Center, the Meyer, the music rooms and the Fox Cities — every team and type',
+    presetDefault: 'Every venue — Lambeau, the Resch Center, the Meyer, the music venues and the Fox Cities — every team and type',
     presetNeighborhood: 'Downtown and the stadiums only',
-    presetBig: 'Only the places that hold 2,000 or more — Lambeau, the Resch Center and Expo, the big rooms down the river',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the stadiums only.', big: 'Showing the big rooms only — Lambeau, the Resch Center and Expo, the big rooms down the river.' },
+    presetBig: 'Only the places that hold 2,000 or more — Lambeau, the Resch Center and Expo, the big venues down the river',
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing downtown and the stadiums only.', big: 'Showing the big venues only — Lambeau, the Resch Center and Expo, the big venues down the river.' },
   };
 
   global.LQACity = {
