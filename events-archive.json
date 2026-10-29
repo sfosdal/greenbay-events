@@ -147,6 +147,22 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-19T22:19:23.518Z"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Zach Williams: Revival Nights with Cochren & Co. And Christian Hohn",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/zach-williams-revival-nights-with-cochren-appleton-wisconsin-10-28-2026/event/0700648AA4FC405F",
+   "type": "concert"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Clutch w/ Slomosa",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
   }
  ]
 }
