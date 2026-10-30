@@ -163,6 +163,27 @@
    "time": "19:30:00",
    "url": "https://epicgreenbay.com/upcoming-events/",
    "type": "concert"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Bart Starr Plaza Tailgate Party",
+   "date": "2026-10-29",
+   "time": "15:45:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Lambeau Field",
+   "title": "Green Bay Packers vs. Carolina Panthers",
+   "date": "2026-10-29",
+   "time": "19:15:00",
+   "url": "https://www.ticketmaster.com/green-bay-packers-vs-carolina-panthers-green-bay-wisconsin-10-29-2026/event/0700646BCF6688B6",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Prime Video"
+    ]
+   }
   }
  ]
 }
