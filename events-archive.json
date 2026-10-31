@@ -184,6 +184,51 @@
      "Prime Video"
     ]
    }
+  },
+  {
+   "venue": "Resch Expo",
+   "title": "Jurassic Quest | Resch Expo | Green Bay, WI 2026",
+   "date": "2026-10-30",
+   "time": "13:00:00",
+   "url": "https://www.universe.com/events/jurassic-quest-resch-expo-green-bay-wi-2026-tickets-XMH0KW?ref=ticketmaster"
+  },
+  {
+   "venue": "Resch Expo",
+   "title": "Jurassic Quest | Resch Expo | Green Bay, WI 2026",
+   "date": "2026-10-30",
+   "time": "15:00:00",
+   "url": "https://www.universe.com/events/jurassic-quest-resch-expo-green-bay-wi-2026-tickets-XMH0KW?ref=ticketmaster"
+  },
+  {
+   "venue": "Resch Expo",
+   "title": "Jurassic Quest | Resch Expo | Green Bay, WI 2026",
+   "date": "2026-10-30",
+   "time": "17:00:00",
+   "url": "https://www.universe.com/events/jurassic-quest-resch-expo-green-bay-wi-2026-tickets-XMH0KW?ref=ticketmaster"
+  },
+  {
+   "venue": "Oshkosh Arena",
+   "title": "Cirque Macabre",
+   "date": "2026-10-30",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cirque-macabre-oshkosh-wisconsin-10-30-2026/event/07006521E0986EDB",
+   "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Green Bay Gamblers vs. Sioux Falls Stampede",
+   "date": "2026-10-30",
+   "time": "19:05:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Lance Burton",
+   "date": "2026-10-30",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lance-burton-appleton-wisconsin-10-30-2026/event/0700649EAEEF5A53",
+   "type": "arts"
   }
  ]
 }
