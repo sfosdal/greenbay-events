@@ -175,6 +175,7 @@
       alias: /fox cities p(erforming|\.a\.c)/i,
     },
     'Oshkosh Arena': {
+      geo: [44.00697, -88.53713], // 1212 S Main St, Oshkosh (Photon, by name)
       area: 'town',
       capacity: 3500,
       type: 'concert',
@@ -251,7 +252,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
-      bbox: [44.224, -88.479, 44.552, -87.923], // south, west, north, east — every room, with a margin
+      bbox: [43.95, -88.6, 44.552, -87.923], // south, west, north, east — every venue, with a margin, Oshkosh Arena too (2026-11-01)
       home: [44.492, -88.074, 44.522, -88.005], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
       tolerance: 0.6,
@@ -259,6 +260,7 @@
         { name: 'Green Bay', lat: 44.513, lon: -88.013, anchor: 'middle' },
         { name: 'Ashwaubenon', lat: 44.47526, lon: -88.06073, anchor: 'middle' },
         { name: 'Appleton', lat: 44.2614, lon: -88.40697, anchor: 'middle' },
+        { name: 'Oshkosh', lat: 44.0247, lon: -88.5426, anchor: 'start' },
       ],
     },
     venues: VENUES,
