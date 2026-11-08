@@ -304,6 +304,30 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/the-sound-of-music-touring-appleton-wisconsin-11-06-2026/event/07006505ACAD54E0",
    "type": "arts"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "The Sound of Music (Touring)",
+   "date": "2026-11-07",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/the-sound-of-music-touring-appleton-wisconsin-11-07-2026/event/07006505ACB854EB",
+   "type": "arts"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Napoleon Dynamite Live w/ Jon Heder",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "arts"
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "The Sound of Music (Touring)",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-sound-of-music-touring-appleton-wisconsin-11-07-2026/event/07006505ACB254E7",
+   "type": "arts"
   }
  ]
 }
