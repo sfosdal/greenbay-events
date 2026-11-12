@@ -344,6 +344,14 @@
    "time": "18:30:00",
    "url": "https://www.ticketmaster.com/the-sound-of-music-touring-appleton-wisconsin-11-08-2026/event/07006505ACBD54F6",
    "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Green Bay Gamblers vs. Chicago Steel",
+   "date": "2026-11-11",
+   "time": "19:05:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
   }
  ]
 }
