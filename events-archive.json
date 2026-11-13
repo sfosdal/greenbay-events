@@ -352,6 +352,14 @@
    "time": "19:05:00",
    "url": "https://www.reschcenter.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Neal McCoy w/ Frank Ray",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
   }
  ]
 }
