@@ -1,11 +1,10 @@
 {
  "links": {
-  "https://epicgreenbay.com/upcoming-events/": "2026-11-11",
-  "https://meyertheatre.org/events/": "2026-11-11",
-  "https://www.oshkosharena.com/events": "2026-11-11",
-  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-11",
-  "https://www.reschcenter.com/": "2026-11-11",
-  "https://www.reschcenter.com/events": "2026-11-11"
+  "https://epicgreenbay.com/upcoming-events/": "2026-11-14",
+  "https://www.oshkosharena.com/events": "2026-11-14",
+  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-14",
+  "https://www.reschcenter.com/": "2026-11-14",
+  "https://www.reschcenter.com/events": "2026-11-14"
  },
  "guard": {
   "https://epicgreenbay.com/upcoming-events/": "2026-11-11",
@@ -17,6 +16,7 @@
   "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-11",
   "https://www.packers.com/schedule/": "2026-11-11",
   "https://www.reschcenter.com/events": "2026-11-11",
-  "https://www.reschexpo.com/events": "2026-11-11"
+  "https://www.reschexpo.com/events": "2026-11-11",
+  "https://www.riversideballroom.com/": "2026-11-14"
  }
 }

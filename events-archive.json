@@ -360,6 +360,22 @@
    "time": "19:00:00",
    "url": "https://epicgreenbay.com/upcoming-events/",
    "type": "concert"
+  },
+  {
+   "venue": "Meyer Theatre",
+   "title": "The Fab Four: Tribute To The Beatles A Hard Days Night",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://ticketstar.evenue.net/events/26FF?utm_source=client&utm_medium=web&utm_campaign=fab-four-26",
+   "type": "concert"
+  },
+  {
+   "venue": "EPIC Event Center",
+   "title": "Rival Sons w/ The Blue Stones",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://epicgreenbay.com/upcoming-events/",
+   "type": "concert"
   }
  ]
 }
