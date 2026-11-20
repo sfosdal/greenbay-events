@@ -433,6 +433,22 @@
    "date": "2026-11-17",
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/viewpoint-speaker-series-forces-of-nature-appleton-wisconsin-11-17-2026/event/07006503B8AA489D"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+   "date": "2026-11-19",
+   "time": "14:30:00",
+   "url": "https://ticketstar.evenue.net/events/26TSO?utm_source=client&utm_medium=web&utm_campaign=tso-26",
+   "type": "concert"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "Trans-Siberian Orchestra - The Ghosts Of Christmas Eve",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://ticketstar.evenue.net/events/26TSO?utm_source=client&utm_medium=web&utm_campaign=tso-26",
+   "type": "concert"
   }
  ]
 }
