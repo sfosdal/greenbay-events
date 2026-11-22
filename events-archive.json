@@ -457,6 +457,48 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/sisters-christmas-catechism-the-mystery-of-appleton-wisconsin-11-20-2026/event/0700649DB8697928",
    "type": "arts"
+  },
+  {
+   "venue": "Resch Center",
+   "title": "AEW presents Collision",
+   "date": "2026-11-21",
+   "time": "18:30:00",
+   "url": "https://www.reschcenter.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Oshkosh Arena",
+   "title": "Wisconsin Herd vs. Noblesville Boom",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/wisconsin-herd-vs-noblesville-boom-oshkosh-wisconsin-11-21-2026/event/0700651C9E402F25",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:54:49.757Z",
+    "from": 24.4
+   }
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Grateful Groove Vip Preshow",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/grateful-groove-vip-preshow-appleton-wisconsin-11-21-2026/event/0700650EF338AAA3",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:54:54.708Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Fox Cities P.A.C.",
+   "title": "Trim Hunger Presents: Grateful Groove",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/trim-hunger-presents-grateful-groove-appleton-wisconsin-11-21-2026/event/070065078BB34296"
   }
  ]
 }
