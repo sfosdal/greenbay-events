@@ -1,22 +1,22 @@
 {
  "links": {
-  "https://epicgreenbay.com/upcoming-events/": "2026-11-20",
+  "https://epicgreenbay.com/upcoming-events/": "2026-11-23",
   "https://www.oshkosharena.com/events": "2026-11-21",
-  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-20",
-  "https://www.reschcenter.com/": "2026-11-20",
-  "https://www.reschcenter.com/events": "2026-11-20"
+  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-23",
+  "https://www.reschcenter.com/": "2026-11-23",
+  "https://www.reschcenter.com/events": "2026-11-23"
  },
  "guard": {
-  "https://epicgreenbay.com/upcoming-events/": "2026-11-19",
-  "https://gamblershockey.com/schedule": "2026-11-19",
-  "https://greenbayphoenix.com/sports/mens-basketball/schedule": "2026-11-19",
-  "https://meyertheatre.org/events/": "2026-11-19",
-  "https://www.nba.com/bucks/schedule": "2026-11-19",
-  "https://www.oshkosharena.com/events": "2026-11-19",
-  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-19",
-  "https://www.packers.com/schedule/": "2026-11-19",
-  "https://www.reschcenter.com/events": "2026-11-19",
-  "https://www.reschexpo.com/events": "2026-11-19",
+  "https://epicgreenbay.com/upcoming-events/": "2026-11-23",
+  "https://gamblershockey.com/schedule": "2026-11-23",
+  "https://greenbayphoenix.com/sports/mens-basketball/schedule": "2026-11-23",
+  "https://meyertheatre.org/events/": "2026-11-23",
+  "https://www.nba.com/bucks/schedule": "2026-11-23",
+  "https://www.oshkosharena.com/events": "2026-11-23",
+  "https://www.packers.com/lambeau-field/lambeau-field-events/": "2026-11-23",
+  "https://www.packers.com/schedule/": "2026-11-23",
+  "https://www.reschcenter.com/events": "2026-11-23",
+  "https://www.reschexpo.com/events": "2026-11-23",
   "https://www.riversideballroom.com/": "2026-11-22"
  }
 }
