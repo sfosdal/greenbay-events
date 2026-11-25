@@ -194,7 +194,7 @@
       cssVar: '--v-rattlers',
       color: '#86eac8',
       url: 'https://www.milb.com/wisconsin/schedule',
-      icon: 'marks/venues/milb.com.png',
+      icon: 'marks/venues/wisconsin.svg',
       tm: { id: 'ZFr9jZdav7', match: 'fox cities stadium', fallbackUrl: 'https://www.milb.com/wisconsin/schedule', exclude: /parking/i },
       alias: /fox cities stadium|neuroscience group field/i,
     },
